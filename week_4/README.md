@@ -4,7 +4,7 @@
 **Dates:** Aug 22 – Aug 28, 2025 (project files timestamped Aug 28)
 **Suggested tag:** `v2.0-hardware`
 
-## Why this folder matches Week 4
+##Things i did and observed in week 4
 
 The uploaded report (`report_rx/`) contains a **post-implementation Vivado run**
 ("Implementation Complete") for a project named
